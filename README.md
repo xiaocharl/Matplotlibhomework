@@ -1,1 +1,3 @@
 # Matplotlibhomework
+observations
+1.  
